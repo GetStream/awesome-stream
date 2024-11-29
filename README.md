@@ -129,6 +129,5 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 - **[GraphQL API](https://getstream.io/activity-feeds/docs/api_integration/)**: Use GraphQL for activity feed management.
 
 ## Open-Source Projects
+- [WebRTC Video Chat](https://getstream.io/resources/projects/webrtc/): Build video calling with Stream's WebRTC integration.
 
-- [Awesome Stream](https://github.com/awesome-stream/): Open-source projects using GetStream.io.
-- [Stream Chat Clone](https://github.com/someuser/chat-clone-stream): A chat app clone built using Stream Chat.
