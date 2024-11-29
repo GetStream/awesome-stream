@@ -30,7 +30,7 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 
 - 🌐 [Website](https://getstream.io/)
 - 📖 [Documentation](https://getstream.io/docs/)
-- 🛠️ [Sample Apps](https://getstream.io/chat/getstarted/)
+- 🛠️ [Sample Apps](https://getstream.io/resources/projects/twitter-clone/)
 - ✍️ [Blog](https://getstream.io/blog/)
 - 🧰 [GitHub Repositories](https://github.com/GetStream)
 
