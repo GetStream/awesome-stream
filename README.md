@@ -113,8 +113,6 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 ## Community Projects
 
 - [Stream Chat React](https://github.com/GetStream/stream-chat-react): Official React SDK for Stream Chat.
-- [Stream Chat Flutter](https://github.com/GetStream/flutter-chat-sdk): Flutter SDK with prebuilt UI components.
-- [Stream Chat Examples](https://github.com/GetStream/stream-chat-demos): Demos of chat integrations across tech stacks.
 
 ## Tutorials and Guides
 
