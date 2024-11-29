@@ -8,11 +8,11 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 - [Introduction](#introduction)
 - [Why GetStream.io?](#why-getstreamio)
 - [Official Resources](#official-resources)
+- [Official SDKs & Tutorials](#official-sdks--tutorials)
 - [Community Projects](#community-projects)
 - [Tutorials and Guides](#tutorials-and-guides)
 - [Integrations](#integrations)
 - [Open-Source Projects](#open-source-projects)
-- [Contributors](#contributors)
 
 ## Introduction
 
@@ -33,6 +33,82 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 - 🛠️ [Sample Apps](https://getstream.io/chat/getstarted/)
 - ✍️ [Blog](https://getstream.io/blog/)
 - 🧰 [GitHub Repositories](https://github.com/GetStream)
+
+## Official SDKs & Tutorials
+
+### Web & JavaScript
+- **React**
+  - [Tutorial: Building a React Chat App](https://getstream.io/chat/react-chat/tutorial/)
+  - [GitHub: stream-chat-react](https://github.com/GetStream/stream-chat-react)
+  - Features: Hooks, Components, UI Kit
+  - Perfect for: Web applications, Single Page Apps
+
+- **Angular**
+  - [Tutorial: Creating an Angular Chat App](https://getstream.io/chat/angular/tutorial/)
+  - [GitHub: stream-chat-angular](https://github.com/GetStream/stream-chat-angular)
+  - Features: Angular-specific components, TypeScript support
+
+- **JavaScript Core SDK**
+  - [GitHub: stream-chat-js](https://github.com/GetStream/stream-chat-js)
+  - Low-level client for custom implementations
+  - Browser and Node.js support
+
+### Mobile Development
+- **iOS**
+  - [Tutorial: iOS Chat SDK](https://getstream.io/tutorials/ios-chat/)
+  - [Tutorial: iOS UI Components](https://getstream.io/tutorials/ios-uikit-chat/)
+  - [GitHub: stream-chat-swift](https://github.com/GetStream/stream-chat-swift)
+  - Features: Swift UI, UI Kit support
+
+- **Android**
+  - [Tutorial: Android Chat Implementation](https://getstream.io/tutorials/android-chat/)
+  - [Tutorial: Kotlin Chat App](https://getstream.io/tutorials/kotlin-chat/)
+  - [GitHub: stream-chat-android](https://github.com/GetStream/stream-chat-android)
+  - Features: Kotlin support, Jetpack Compose
+
+### Cross-Platform
+- **React Native**
+  - [Tutorial: React Native Chat](https://getstream.io/chat/react-native-chat/tutorial/)
+  - [GitHub: stream-chat-react-native](https://github.com/GetStream/stream-chat-react-native)
+  - Features: Native UI components, Offline support
+
+- **Flutter**
+  - [Tutorial: Flutter Chat SDK](https://getstream.io/chat/flutter/tutorial/)
+  - [GitHub: stream-chat-flutter](https://github.com/GetStream/stream-chat-flutter)
+  - Features: Dart support, Custom widgets
+
+### Game Development
+- **Unity**
+  - [Tutorial: Unity Chat Integration](https://getstream.io/chat/unity/tutorial/)
+  - [GitHub: stream-chat-unity](https://github.com/GetStream/stream-chat-unity)
+  - Features: C# support, Unity-specific components
+
+- **Unreal Engine**
+  - [Tutorial: Unreal Engine Chat](https://getstream.io/chat/unreal/tutorial/)
+  - [GitHub: stream-chat-unreal](https://github.com/GetStream/stream-chat-unreal)
+  - Features: C++ support, Blueprint integration
+
+### Backend SDKs
+- **Node.js**
+  - [GitHub: stream-chat-node](https://github.com/GetStream/stream-chat-node)
+  - Server-side implementation
+
+- **Python**
+  - [GitHub: stream-chat-python](https://github.com/GetStream/stream-chat-python)
+  - Django integration available
+
+- **PHP**
+  - [GitHub: stream-chat-php](https://github.com/GetStream/stream-chat-php)
+  - Laravel integration available
+
+- **Ruby**
+  - [GitHub: stream-chat-ruby](https://github.com/GetStream/stream-chat-ruby)
+  - Rails integration available
+
+- **Go**
+  - [GitHub: stream-chat-go](https://github.com/GetStream/stream-chat-go)
+  - High-performance server-side implementation
+
 
 ## Community Projects
 
