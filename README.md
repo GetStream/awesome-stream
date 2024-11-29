@@ -119,7 +119,6 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 ## Tutorials and Guides
 
 - [How I Built a Custom Video Conferencing App with Stream](https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/)
-- [Integrating Chat in React Native](https://getstream.io/chat/sdk/react-native/quickstart/)
 - [Activity Feeds for Social Media Apps](https://getstream.io/activity-feeds/)
 
 ## Integrations
