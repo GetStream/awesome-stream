@@ -131,4 +131,6 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 
 ## Other Interesting Articles
 
-[Why Stream Switched from Python to Go](https://getstream.io/blog/switched-python-go/) - A case study showing how Stream achieved 40x performance gains by migrating from Python to Go, scaling to 500M+ end users.
+- [Why Stream Switched from Python to Go](https://getstream.io/blog/switched-python-go/) - A case study showing how Stream achieved 40x performance gains by migrating from Python to Go, scaling to 500M+ end users.
+
+- [Migrate from Pusher Chatkit to Stream Chat](https://getstream.io/blog/pusher-chatkit-stream-chat-migration/) - Detailed migration guide for Pusher Chatkit users moving to Stream Chat, following Pusher's shutdown announcement.
