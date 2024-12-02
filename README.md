@@ -132,8 +132,8 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 - [Winds - RSS & Podcast Reader](https://github.com/GetStream/Winds): A beautiful open-source RSS feed reader and podcast app powered by GetStream. Winds personalizes your experience using machine learning and showcases modern technologies like Node.js, React, and MongoDB.
 
 
-## Other Interesting Articles
+## Other Interesting Articles and Projects
 
 - [Why Stream Switched from Python to Go](https://getstream.io/blog/switched-python-go/) - A case study showing how Stream achieved 40x performance gains by migrating from Python to Go, scaling to 500M+ end users.
-
 - [Migrate from Pusher Chatkit to Stream Chat](https://getstream.io/blog/pusher-chatkit-stream-chat-migration/) - Detailed migration guide for Pusher Chatkit users moving to Stream Chat, following Pusher's shutdown announcement.
+- [Master React & Redux with Cabin](https://getstream.io/blog/cabin/) - A comprehensive tutorial series for building scalable social network applications with React and Redux *(archived - this project is no longer supported)*.
