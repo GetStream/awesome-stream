@@ -13,6 +13,7 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 - [Tutorials and Guides](#tutorials-and-guides)
 - [Integrations](#integrations)
 - [Open-Source Projects](#open-source-projects)
+- [Other Interesting Articles](#other-interesting-articles)
 
 ## Introduction
 
@@ -126,7 +127,9 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 - **[GraphQL API](https://getstream.io/activity-feeds/docs/api_integration/)**: Use GraphQL for activity feed management.
 
 ## Open-Source Projects
+
 - [WebRTC Video Chat](https://getstream.io/resources/projects/webrtc/): Build video calling with Stream's WebRTC integration.
+- [Winds - RSS & Podcast Reader](https://github.com/GetStream/Winds): A beautiful open-source RSS feed reader and podcast app powered by GetStream. Winds personalizes your experience using machine learning and showcases modern technologies like Node.js, React, and MongoDB.
 
 
 ## Other Interesting Articles
