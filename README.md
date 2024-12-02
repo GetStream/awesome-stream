@@ -128,3 +128,7 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 ## Open-Source Projects
 - [WebRTC Video Chat](https://getstream.io/resources/projects/webrtc/): Build video calling with Stream's WebRTC integration.
 
+
+## Other Interesting Articles
+
+[Why Stream Switched from Python to Go](https://getstream.io/blog/switched-python-go/) - A case study showing how Stream achieved 40x performance gains by migrating from Python to Go, scaling to 500M+ end users.
