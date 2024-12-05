@@ -128,7 +128,7 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 
 ## Open-Source Projects
 
-- [WebRTC Video Chat](https://getstream.io/resources/projects/webrtc/): Build video calling with Stream's WebRTC integration.
+- [WebRTC Video Chat](https://getstream.io/resources/projects/webrtc/): WebRTC for the Brave - A collection of resources and tutorials built to help you go from zero to hero with the WebRTC protocol.
 - [Winds - RSS & Podcast Reader](https://github.com/GetStream/Winds): A beautiful open-source RSS feed reader and podcast app powered by GetStream. Winds personalizes your experience using machine learning and showcases modern technologies like Node.js, React, and MongoDB.
 
 
