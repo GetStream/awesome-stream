@@ -17,7 +17,7 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 
 ## Introduction
 
-[GetStream.io](https://getstream.io/) provides a cloud-based platform to integrate chat and activity feed functionality into your apps. With SDKs, prebuilt UI components, and real-time capabilities, it simplifies complex integrations, offering robust tools for developers.
+[GetStream.io](https://getstream.io/) provides a cloud-based platform to integrate chat, voice and video, activity feed and auto-moderation functionality into your apps. With SDKs, prebuilt UI components, and real-time capabilities, it simplifies complex integrations, offering robust tools for developers.
 
 ## Why GetStream.io?
 
