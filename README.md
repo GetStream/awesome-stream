@@ -130,8 +130,9 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 
 - [WebRTC Video Chat](https://getstream.io/resources/projects/webrtc/): WebRTC for the Brave - A collection of resources and tutorials built to help you go from zero to hero with the WebRTC protocol.
 - [Winds - RSS & Podcast Reader](https://github.com/GetStream/Winds): A beautiful open-source RSS feed reader and podcast app powered by GetStream. Winds personalizes your experience using machine learning and showcases modern technologies like Node.js, React, and MongoDB.
+- [Twitter Clone](https://getstream.io/resources/projects/twitter-clone/): The project demonstrates integration of APIs and services including Stream's Activity Feeds and Chat, Algolia search, RevenueCat subscriptions, 100ms audio rooms, and Mux video playback. Features include timeline feeds, media tweets, user search and following, DMs, audio spaces, and subscription capabilities - all built with SwiftUI for iOS.
 
-
+  
 ## Other Interesting Articles and Projects
 
 - [Why Stream Switched from Python to Go](https://getstream.io/blog/switched-python-go/) - A case study showing how Stream achieved 40x performance gains by migrating from Python to Go, scaling to 500M+ end users.
