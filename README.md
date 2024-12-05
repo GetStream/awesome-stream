@@ -22,7 +22,7 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 ## Why GetStream.io?
 
 - **Comprehensive SDKs**: Supports React, iOS, Android, React Native, Flutter, and more.
-- **Scalable Infrastructure**: Handles high traffic with minimal latency and robust uptime.
+- **Scalable Infrastructure**: Global Edge Network which handles high traffic with minimal latency and robust uptime.
 - **Prebuilt UI Components**: Customizable components speed up development.
 - **Security**: Enterprise-grade encryption and GDPR compliance.
 - **Developer-Friendly**: Extensive documentation, tutorials, and free plans for makers.
