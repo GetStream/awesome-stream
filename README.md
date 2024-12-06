@@ -11,9 +11,10 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 - [Official SDKs & Tutorials](#official-sdks--tutorials)
 - [Community Projects](#community-projects)
 - [Tutorials and Guides](#tutorials-and-guides)
+- [Case Studies](#case-studies)
 - [Integrations](#integrations)
 - [Open-Source Projects](#open-source-projects)
-- [Other Interesting Articles](#other-interesting-articles)
+- [Other Interesting Articles and Projects](#other-interesting-articles-and-projects)
 
 ## Introduction
 
@@ -119,6 +120,16 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 
 - [How I Built a Custom Video Conferencing App with Stream](https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/)
 - [Activity Feeds for Social Media Apps](https://getstream.io/activity-feeds/)
+
+## Case Studies
+
+- **[How Stream Powers Chat for 500M+ Users](https://getstream.io/blog/switched-python-go/)**: A detailed case study showing how Stream scaled its infrastructure from Python to Go, enabling them to handle 500M+ end users with 40x performance gains.
+- **[Migrate from Pusher Chatkit to Stream Chat](https://getstream.io/blog/pusher-chatkit-stream-chat-migration/)**: Learn from the case study of how companies migrated from Pusher Chatkit to Stream Chat, following the shutdown of Pusher Chatkit.
+- [EdTech Enterprise Chooses Stream Over Sendbird To Streamline Communication for Millions of Users](https://getstream.io/blog/compass-education/)
+- [Sports Card Marketplace CollX Sees 75% Retention Rate After Introducing In-App Chat Negotiation](https://getstream.io/blog/collx-in-app-chat-negotiation/)
+- [Stream Donates Chat to YesHelp](https://getstream.io/blog/stream-donates-chat-to-yeshelp/)
+- [Pluang Uses Stream Chat](https://getstream.io/blog/pluang-uses-stream-chat/)
+
 
 ## Integrations
 
