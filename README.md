@@ -118,7 +118,12 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 
 ## Tutorials and Guides
 
-- [How I Built a Custom Video Conferencing App with Stream](https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/)
+- [How to Build a Chat or Messaging App: The Ultimate Guide](https://getstream.io/blog/build-chat-messaging-app/)
+- [Stream Chat vs. Twilio](https://getstream.io/blog/twilio-stream/)
+- [Build a Chat App with OpenAI ChatGPT](https://getstream.io/blog/build-a-chat-app-with-openai-chatgpt/)
+- [How to a Real-Time Android WhatsApp Clone With Jetpack Compose](https://getstream.io/blog/build-whatsapp-clone/)
+- [How to Build an Android and iOS Video Calling App With React Native](https://getstream.io/blog/react-native-video-calling-app/)
+- [How to Build a Custom Video Conferencing App with Stream and Nextjs](https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/)
 - [Activity Feeds for Social Media Apps](https://getstream.io/activity-feeds/)
 
 ## Case Studies
