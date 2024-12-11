@@ -9,6 +9,7 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 - [Why GetStream.io?](#why-getstreamio)
 - [Official Resources](#official-resources)
 - [Official SDKs & Tutorials](#official-sdks--tutorials)
+- [AI Integration Examples](#ai-integration-examples)
 - [Community Projects](#community-projects)
 - [Tutorials and Guides](#tutorials-and-guides)
 - [Case Studies](#case-studies)
@@ -110,6 +111,24 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 - **Go**
   - [GitHub: stream-chat-go](https://github.com/GetStream/stream-chat-go)
   - High-performance server-side implementation
+
+## AI Integration Examples
+
+### Official AI Chat Samples
+- **[Building AI Chat Assistant with React](https://getstream.io/blog/react-assistant/)**: Complete tutorial showing how to build an AI chat assistant with React, OpenAI/Anthropic integration, and real-time capabilities.
+- **[Mobile AI Assistant with React Native](https://getstream.io/blog/react-native-assistant/)**: Learn to build a mobile AI chat assistant with cross-platform support and native UI components.
+- **[Android AI Chat with Jetpack Compose](https://getstream.io/blog/android-assistant/)**: Step-by-step guide for creating an Android AI chat app using Kotlin and Material Design.
+- **[iOS AI Assistant with SwiftUI](https://getstream.io/blog/ios-assistant/)**: Tutorial for building a native iOS AI assistant with SwiftUI and Stream's chat components.
+- **[Cross-platform AI Chat with Flutter](https://getstream.io/blog/flutter-assistant/)**: Comprehensive guide to creating AI-powered chat using Flutter and Stream's SDK.
+
+### Backend Implementations
+- **[Node.js AI Chat Backend](https://getstream.io/blog/nodejs-assistant/)**: Tutorial for implementing a scalable AI chat backend with Node.js, featuring OpenAI/Anthropic integration.
+- **Python Backend Implementation**: Coming soon - Stay tuned for our Python integration guide.
+
+### AI Integration Guides
+- **[Android Generative AI Chat](https://getstream.io/blog/android-generative-ai/)**: Learn to build an Android chat app powered by Google's Generative AI.
+- **[Documentation AI Chatbot](https://getstream.io/blog/llm-chatbot-docs/)**: Guide to creating an LLM-powered chatbot for your documentation.
+- **[HuggingFace Chat Integration](https://getstream.io/blog/conversational-ai-flutter/)**: Tutorial on implementing chat with HuggingFace and DialogGPT.
 
 
 ## Community Projects
