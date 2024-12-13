@@ -122,15 +122,8 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 - **[How to Build an AI Chat Android App With Google's Generative AI](https://getstream.io/blog/android-generative-ai/)**: Tutorial on integrating Google's Generative AI capabilities into an Android chat app.
 - **[How to Build an LLM-powered Chatbot For Your Documentation](https://getstream.io/blog/llm-chatbot-docs/)**: Guide for creating a documentation-focused chatbot using LLM.
 - **[How to Build an AI bot Using Stream Chat, HuggingFace, and DialogGPT](https://getstream.io/blog/conversational-ai-flutter/)**: Tutorial on building an AI chatbot with Stream Chat, HuggingFace and DialogGPT models.
-
-### Backend Implementations
 - **[Node.js AI Chat Backend](https://getstream.io/blog/nodejs-assistant/)**: Tutorial for implementing a scalable AI chat backend with Node.js, featuring OpenAI/Anthropic integration.
 - **Python Backend Implementation**: Coming soon - Stay tuned for our Python integration guide.
-
-### AI Integration Guides
-- **[Android Generative AI Chat](https://getstream.io/blog/android-generative-ai/)**: Learn to build an Android chat app powered by Google's Generative AI.
-- **[Documentation AI Chatbot](https://getstream.io/blog/llm-chatbot-docs/)**: Guide to creating an LLM-powered chatbot for your documentation.
-- **[HuggingFace Chat Integration](https://getstream.io/blog/conversational-ai-flutter/)**: Tutorial on implementing chat with HuggingFace and DialogGPT.
 
 
 ## Community Projects
