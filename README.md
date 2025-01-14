@@ -123,7 +123,8 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 - **[How to Build an LLM-powered Chatbot For Your Documentation](https://getstream.io/blog/llm-chatbot-docs/)**: Guide for creating a documentation-focused chatbot using LLM.
 - **[How to Build an AI bot Using Stream Chat, HuggingFace, and DialogGPT](https://getstream.io/blog/conversational-ai-flutter/)**: Tutorial on building an AI chatbot with Stream Chat, HuggingFace and DialogGPT models.
 - **[Node.js AI Chat Backend](https://getstream.io/blog/nodejs-assistant/)**: Tutorial for implementing a scalable AI chat backend with Node.js, featuring OpenAI/Anthropic integration.
-- **Python Backend Implementation**: Coming soon - Stay tuned for our Python integration guide.
+- **[Python AI Chat Backend](https://getstream.io/blog/python-assistant/)**: Explore building an AI assistant using Python to power conversational experiences.
+- **[How to Add RAG-Based AI to Team Chat With Stream](https://getstream.io/blog/ai-team-chat/)**: A detailed tutorial to implement RAG (Retrieval-Augmented Generation) in team chats, integrating OpenAI or Anthropic for a robust AI-powered chat experience.
 
 
 ## Community Projects
