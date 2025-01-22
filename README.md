@@ -35,7 +35,6 @@ Stream provides a cloud-based platform to integrate chat, voice and video, activ
 
 ## Official Resources
 
-- 🌐 [Website](https://getstream.io/)
 - 📖 [Documentation](https://getstream.io/docs/)
 - 🛠️ [Sample Apps](https://getstream.io/resources/projects/twitter-clone/)
 - ✍️ [Blog](https://getstream.io/blog/)
