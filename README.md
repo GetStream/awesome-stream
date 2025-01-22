@@ -10,7 +10,7 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Why GetStream.io?](#why-getstreamio)
+- [Why Stream](#why-stream)
 - [Official Resources](#official-resources)
 - [Official SDKs & Tutorials](#official-sdks--tutorials)
 - [AI Integration Examples](#ai-integration-examples)
@@ -23,9 +23,9 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 
 ## Introduction
 
-[GetStream.io](https://getstream.io/) provides a cloud-based platform to integrate chat, voice and video, activity feed and auto-moderation functionality into your apps. With SDKs, prebuilt UI components, and real-time capabilities, it simplifies complex integrations, offering robust tools for developers.
+Stream provides a cloud-based platform to integrate chat, voice and video, activity feed and auto-moderation functionality into your apps. With SDKs, prebuilt UI components, and real-time capabilities, it simplifies complex integrations, offering robust tools for developers.
 
-## Why GetStream.io?
+## Why Stream
 
 - **Comprehensive SDKs**: Supports React, iOS, Android, React Native, Flutter, and more.
 - **Scalable Infrastructure**: Global Edge Network which handles high traffic with minimal latency and robust uptime.
@@ -137,22 +137,22 @@ A curated list of awesome resources, tutorials, libraries, and tools for [GetStr
 
 ## Tutorials and Guides
 
-- [How to Build a Chat or Messaging App: The Ultimate Guide](https://getstream.io/blog/build-chat-messaging-app/)
-- [Stream Chat vs. Twilio](https://getstream.io/blog/twilio-stream/)
-- [Build a Chat App with OpenAI ChatGPT](https://getstream.io/blog/build-a-chat-app-with-openai-chatgpt/)
-- [How to a Real-Time Android WhatsApp Clone With Jetpack Compose](https://getstream.io/blog/build-whatsapp-clone/)
-- [How to Build an Android and iOS Video Calling App With React Native](https://getstream.io/blog/react-native-video-calling-app/)
-- [How to Build a Custom Video Conferencing App with Stream and Nextjs](https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/)
-- [Activity Feeds for Social Media Apps](https://getstream.io/activity-feeds/)
+- [How to Build a Chat or Messaging App: The Ultimate Guide](https://getstream.io/blog/build-chat-messaging-app/).
+- [Stream Chat vs. Twilio](https://getstream.io/blog/twilio-stream/).
+- [Build a Chat App with OpenAI ChatGPT](https://getstream.io/blog/build-a-chat-app-with-openai-chatgpt/).
+- [How to a Real-Time Android WhatsApp Clone With Jetpack Compose](https://getstream.io/blog/build-whatsapp-clone/).
+- [How to Build an Android and iOS Video Calling App With React Native](https://getstream.io/blog/react-native-video-calling-app/).
+- [How to Build a Custom Video Conferencing App with Stream and Nextjs](https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/).
+- [Activity Feeds for Social Media Apps](https://getstream.io/activity-feeds/).
 
 ## Case Studies
 
 - **[How Stream Powers Chat for 500M+ Users](https://getstream.io/blog/switched-python-go/)**: A detailed case study showing how Stream scaled its infrastructure from Python to Go, enabling them to handle 500M+ end users with 40x performance gains.
 - **[Migrate from Pusher Chatkit to Stream Chat](https://getstream.io/blog/pusher-chatkit-stream-chat-migration/)**: Learn from the case study of how companies migrated from Pusher Chatkit to Stream Chat, following the shutdown of Pusher Chatkit.
-- [EdTech Enterprise Chooses Stream Over Sendbird To Streamline Communication for Millions of Users](https://getstream.io/blog/compass-education/)
-- [Sports Card Marketplace CollX Sees 75% Retention Rate After Introducing In-App Chat Negotiation](https://getstream.io/blog/collx-in-app-chat-negotiation/)
-- [Stream Donates Chat to YesHelp](https://getstream.io/blog/stream-donates-chat-to-yeshelp/)
-- [Pluang Uses Stream Chat](https://getstream.io/blog/pluang-uses-stream-chat/)
+- [EdTech Enterprise Chooses Stream Over Sendbird To Streamline Communication for Millions of Users](https://getstream.io/blog/compass-education/).
+- [Sports Card Marketplace CollX Sees 75% Retention Rate After Introducing In-App Chat Negotiation](https://getstream.io/blog/collx-in-app-chat-negotiation/).
+- [Stream Donates Chat to YesHelp](https://getstream.io/blog/stream-donates-chat-to-yeshelp/).
+- [Pluang Uses Stream Chat](https://getstream.io/blog/pluang-uses-stream-chat/).
 
 
 ## Integrations
