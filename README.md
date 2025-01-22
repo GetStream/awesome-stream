@@ -1,7 +1,7 @@
 # Awesome Stream [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 
-A curated list of awesome resources, tutorials, libraries, and tools for [GetStream.io](https://getstream.io/). This repository is a one-stop resource for building scalable chat and activity feed applications with ease.
+A curated list of awesome resources, tutorials, libraries, and tools for [Stream](https://getstream.io/). This repository is a one-stop resource for building scalable chat and activity feed applications with ease.
 
 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
   <img src="stream-logo.png" alt="Stream" style={{ height: '10px' }} />
