@@ -165,6 +165,8 @@ Stream provides a cloud-based platform to integrate chat, voice and video, activ
 - [WebRTC Video Chat](https://getstream.io/resources/projects/webrtc/): WebRTC for the Brave - A collection of resources and tutorials built to help you go from zero to hero with the WebRTC protocol.
 - [Winds - RSS & Podcast Reader](https://github.com/GetStream/Winds): A beautiful open-source RSS feed reader and podcast app powered by GetStream. Winds personalizes your experience using machine learning and showcases modern technologies like Node.js, React, and MongoDB.
 - [Twitter Clone](https://getstream.io/resources/projects/twitter-clone/): The project demonstrates integration of APIs and services including Stream's Activity Feeds and Chat, Algolia search, RevenueCat subscriptions, 100ms audio rooms, and Mux video playback. Features include timeline feeds, media tweets, user search and following, DMs, audio spaces, and subscription capabilities - all built with SwiftUI for iOS.
+- [Video Calling Interview Platform](https://github.com/burakorkmez/remote-interview-platform): Learn how to build a video calling interview platform powered by Stream. Watch the full tutorial on [YouTube](https://youtu.be/xEnnRNH_lyw?si=QUw3WRWPqpybbor0).
+
 
   
 ## Other Interesting Articles and Projects
