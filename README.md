@@ -1,11 +1,13 @@
-# Awesome Stream [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+<p align="center">
+  <a href="https://getstream.io/">
+    <img src="stream-logo.png" alt="Stream" width="400">
+  </a>
+</p>
 
+# Awesome Stream [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of awesome resources, tutorials, libraries, and tools for [Stream](https://getstream.io/). This repository is a one-stop resource for building scalable chat and activity feed applications with ease.
 
-<div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-  <img src="stream-logo.png" alt="Stream" style={{ height: '10px' }} />
-</div>
 
 ## Table of Contents
 
