@@ -6,12 +6,14 @@
 
 # Awesome Stream [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of awesome resources, tutorials, libraries, and tools for [Stream](https://getstream.io/). This repository is a one-stop resource for building scalable chat and activity feed applications with ease.
+[Stream](https://getstream.io/) helps developers build engaging apps that scale to millions with performant and flexible [Chat](https://getstream.io/chat/), [Video](https://getstream.io/video/), [Voice](https://getstream.io/video/), [Feeds](https://getstream.io/activity-feeds/), and [Moderation](https://getstream.io/moderation/) APIs and SDKs powered by a [global edge network](https://getstream.io/blog/chat-edge-infrastructure/) and enterprise-grade infrastructure.
+
+
+This curated list covers the best resources, tutorials, and community content related to Stream.
 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Why Stream](#why-stream)
 - [Official Resources](#official-resources)
 - [Official SDKs & Tutorials](#official-sdks--tutorials)
@@ -22,10 +24,6 @@ A curated list of awesome resources, tutorials, libraries, and tools for [Stream
 - [Integrations](#integrations)
 - [Open-Source Projects](#open-source-projects)
 - [Other Interesting Articles and Projects](#other-interesting-articles-and-projects)
-
-## Introduction
-
-Stream provides a cloud-based platform to integrate chat, voice and video, activity feed and auto-moderation functionality into your apps. With SDKs, prebuilt UI components, and real-time capabilities, it simplifies complex integrations, offering robust tools for developers.
 
 ## Why Stream
 
@@ -143,8 +141,8 @@ Stream provides a cloud-based platform to integrate chat, voice and video, activ
 - [Build a Chat App with OpenAI ChatGPT](https://getstream.io/blog/build-a-chat-app-with-openai-chatgpt/).
 - [How to a Real-Time Android WhatsApp Clone With Jetpack Compose](https://getstream.io/blog/build-whatsapp-clone/).
 - [How to Build an Android and iOS Video Calling App With React Native](https://getstream.io/blog/react-native-video-calling-app/).
-- [How to Build a Custom Video Conferencing App with Stream and Nextjs](https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/).
-- [Activity Feeds for Social Media Apps](https://getstream.io/activity-feeds/).
+- [How to Build a Custom Video Conferencing App with Stream](https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/).
+- [How to Build a Social Learning Platform using Stream](https://www.freecodecamp.org/news/how-to-build-a-social-learning-platform-using-nextjs-stream-and-supabase/).
 
 ## Case Studies
 
