@@ -173,4 +173,5 @@ This curated list covers the best resources, tutorials, and community content re
 
 - [Why Stream Switched from Python to Go](https://getstream.io/blog/switched-python-go/) - A case study showing how Stream achieved 40x performance gains by migrating from Python to Go, scaling to 500M+ end users.
 - [Migrate from Pusher Chatkit to Stream Chat](https://getstream.io/blog/pusher-chatkit-stream-chat-migration/) - Detailed migration guide for Pusher Chatkit users moving to Stream Chat, following Pusher's shutdown announcement.
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping that automatically finds highlights in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels.
 - [Master React & Redux with Cabin](https://getstream.io/blog/cabin/) - A comprehensive tutorial series for building scalable social network applications with React and Redux *(archived - this project is no longer supported)*.
