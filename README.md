@@ -96,24 +96,27 @@ This curated list covers the best resources, tutorials, and community content re
 
 ### Backend SDKs
 - **Node.js**
-  - [GitHub: stream-chat-node](https://github.com/GetStream/stream-chat-node)
+  - [GitHub: stream-node](https://github.com/GetStream/stream-node)
   - Server-side implementation
 
 - **Python**
-  - [GitHub: stream-chat-python](https://github.com/GetStream/stream-chat-python)
-  - Django integration available
+  - [GitHub: stream-py](https://github.com/GetStream/stream-py)
 
 - **PHP**
-  - [GitHub: stream-chat-php](https://github.com/GetStream/stream-chat-php)
-  - Laravel integration available
+  - [GitHub: getstream-php](https://github.com/GetStream/getstream-php)
 
 - **Ruby**
-  - [GitHub: stream-chat-ruby](https://github.com/GetStream/stream-chat-ruby)
-  - Rails integration available
+  - [GitHub: getstream-ruby](https://github.com/GetStream/getstream-ruby)
 
 - **Go**
-  - [GitHub: stream-chat-go](https://github.com/GetStream/stream-chat-go)
+  - [GitHub: getstream-go](https://github.com/GetStream/getstream-go)
   - High-performance server-side implementation
+
+- **Java**
+  - [GitHub: stream-sdk-java](https://github.com/GetStream/stream-sdk-java)
+
+- **.NET**
+  - [GitHub: getstream-net](https://github.com/GetStream/getstream-net)
 
 ## AI Integration Examples
 
@@ -163,7 +166,6 @@ This curated list covers the best resources, tutorials, and community content re
 ## Open-Source Projects
 
 - [WebRTC Video Chat](https://getstream.io/resources/projects/webrtc/): WebRTC for the Brave - A collection of resources and tutorials built to help you go from zero to hero with the WebRTC protocol.
-- [Winds - RSS & Podcast Reader](https://github.com/GetStream/Winds): A beautiful open-source RSS feed reader and podcast app powered by GetStream. Winds personalizes your experience using machine learning and showcases modern technologies like Node.js, React, and MongoDB.
 - [Twitter Clone](https://getstream.io/resources/projects/twitter-clone/): The project demonstrates integration of APIs and services including Stream's Activity Feeds and Chat, Algolia search, RevenueCat subscriptions, 100ms audio rooms, and Mux video playback. Features include timeline feeds, media tweets, user search and following, DMs, audio spaces, and subscription capabilities - all built with SwiftUI for iOS.
 - [Video Calling Interview Platform](https://github.com/burakorkmez/remote-interview-platform): Learn how to build a video calling interview platform powered by Stream. Watch the full tutorial on [YouTube](https://youtu.be/xEnnRNH_lyw?si=QUw3WRWPqpybbor0).
 
